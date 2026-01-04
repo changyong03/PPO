@@ -1,1 +1,1 @@
-PPO from scratch
+RL algorithm PPO from scratch
